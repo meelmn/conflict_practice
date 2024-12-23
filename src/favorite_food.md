@@ -1,5 +1,5 @@
 # favorite food
 
 apple
-apple
-apple
+peach
+banana
